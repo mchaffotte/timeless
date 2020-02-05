@@ -1,0 +1,3 @@
+rootProject.name = 'timeless'
+include 'timeless-motion'
+
